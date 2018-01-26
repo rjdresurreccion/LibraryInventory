@@ -1,0 +1,8 @@
+C:\Users\Alienware\Documents\Visual Studio Project\LibraryInventory\LibraryInventory\bin\Debug\LibraryInventory.exe.config
+C:\Users\Alienware\Documents\Visual Studio Project\LibraryInventory\LibraryInventory\bin\Debug\LibraryInventory.exe
+C:\Users\Alienware\Documents\Visual Studio Project\LibraryInventory\LibraryInventory\bin\Debug\LibraryInventory.pdb
+C:\Users\Alienware\Documents\Visual Studio Project\LibraryInventory\LibraryInventory\obj\Debug\LibraryInventory.csprojResolveAssemblyReference.cache
+C:\Users\Alienware\Documents\Visual Studio Project\LibraryInventory\LibraryInventory\obj\Debug\LibraryInventory.Properties.Resources.resources
+C:\Users\Alienware\Documents\Visual Studio Project\LibraryInventory\LibraryInventory\obj\Debug\LibraryInventory.csproj.GenerateResource.Cache
+C:\Users\Alienware\Documents\Visual Studio Project\LibraryInventory\LibraryInventory\obj\Debug\LibraryInventory.exe
+C:\Users\Alienware\Documents\Visual Studio Project\LibraryInventory\LibraryInventory\obj\Debug\LibraryInventory.pdb
